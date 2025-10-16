@@ -13,7 +13,7 @@ import nest_asyncio
 
 nest_asyncio.apply()
 
-TOKEN = "8232458125:AAFvapp_BhTHMLuN11xhW_ypNbT6oEriIww"
+TOKEN = "8232458125:AAHfPvCj_nvRRy9Z9h8QYOaKC_oJJdeeYv4"
 cg = CoinGeckoAPI()
 
 
