@@ -1,4 +1,4 @@
-![App Screenshot](images/screenshot.png)
+![App Screenshot](screenshot-bot.png)
 
 update: the sevice no longer work, as render.com has took it down, due to long inacivity, but you can still run the python script on your pc.
 
